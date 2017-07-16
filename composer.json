@@ -37,7 +37,7 @@
     "extra": {
         "branch-alias": {
             "dev-master": "2.6-dev",
-            "console-exception-fix": "2.6.2"
+            "dev-console-exception-fix": "2.6.2"
         }
     }
 }
